@@ -1,0 +1,2 @@
+# proyectoTeamSoft
+Gestor de ventas
